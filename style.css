@@ -173,3 +173,24 @@ h3{
     padding-right: 25px;
 }
 
+.padleft{
+    padding-left: 30px;
+}
+
+.padleft h2{
+    text-align: center;
+}
+
+.padleft button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #0f19d7;
+    color: #fff;
+    border-radius: 30px;
+    display: inline-block;
+    margin-top: 25px;
+    transition: 0.5s;
+    font-size: medium;
+    text-align: center;
+
+}
