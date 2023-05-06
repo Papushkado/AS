@@ -41,6 +41,7 @@ nav{
     align-items: left;
     flex-direction: column;
     display: flex;
+    
 }
 
 nav ul{
@@ -64,9 +65,11 @@ nav ul li a{
     color: #555;
 }
 
-nav ul li a:hover{
-    font-size: 150%;
-}
+.col-2 nav ul li a:hover{
+    font-size: 130%;
+} 
+
+
 
 .row{
     display: flex;
